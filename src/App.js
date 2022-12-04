@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="flex flex-col space-y-20">
             <Nav />
-            <div className="flex flex-col lg:flex-row lg:justify-around">
+            <div className="flex flex-col lg:flex-row lg:justify-around lg:mx-10">
                 <Banner />
                 <Login />
             </div>
