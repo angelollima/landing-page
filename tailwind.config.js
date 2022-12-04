@@ -17,6 +17,9 @@ module.exports = {
       textColor: {
         light_text: '#432dc2',
       },
+      placeholderColor: {
+        primary: '#432dc2'
+      },
       borderColor: {
         transparent_border: 'rgba(255, 255, 255, 0.14)',
         input_border: 'rgba(77, 40, 40, 0.158)',
